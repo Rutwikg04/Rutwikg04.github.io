@@ -1204,6 +1204,10 @@ ul.education-chart h4 {
   padding: 70px 0px;
 }
 
+.certificate-holder {
+  padding: 3rem;
+}
+
 .certificate h1 {
   color: #6f6f6f;
   text-align: center;
@@ -1829,10 +1833,12 @@ textarea.form-control::-webkit-input-placeholder,
   .menu-container-transparent {
     background: rgb(255, 255, 255);
   }
+  .certificate-holder {
+    padding: 0px;
+  }
   .cert-item {
     padding-left: 0%;
   }
-
   .about-me-images img {
     width: 100%;
     -webkit-filter: grayscale(0%);
