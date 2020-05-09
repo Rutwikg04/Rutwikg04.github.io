@@ -1037,7 +1037,7 @@ ul.education-chart h4 {
 }
 
 .no-js .fourth-skill {
-  width: 70%;
+  width: 95%;
 }
 
 .skillbar-title,
@@ -1264,7 +1264,7 @@ ul.education-chart h4 {
 
 .cert-item {
   width: 100%;
-  padding-left: 10%;
+  display: none;
 }
 .cert {
   position: relative;
